@@ -25,3 +25,8 @@ This project is a simple interactive game where the user controls a car to navig
 ### Lighting 2
 
 - **Car Headlights**: two spotlights representing car headlights at the front of the car.
+## Dependencies
+
+1. freeglut.
+2. GLEW.
+3. GLM.
