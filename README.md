@@ -10,7 +10,11 @@ This project is a simple interactive game where the user controls a car to navig
 
 - **Obstacles**: Four randomly distributed cubes serve as obstacles. Colliding with an obstacle stops the car, displaying a 'You Lose !' message for 3 seconds before resetting the game to the initial state.
 
+![lose](Image/lose.png)
+
 - **Target**: If the car reaches the target, it stops, and a 'You Win !' message appears for 3 seconds. The game resets to the initial state for the user to start over.
+
+![win](Image/win.png)
 
 ## Texture
 
@@ -30,3 +34,16 @@ This project is a simple interactive game where the user controls a car to navig
 1. freeglut.
 2. GLEW.
 3. GLM.
+
+## Installation
+To install and run the game, follow these steps:
+
+1. **Clone the Repository**
+
+2. **Install Dependencies**
+
+3. **Install Visual Studio**
+
+4. **unzip the project folder**
+
+5. **Open Visual Studio, then open the solution file (.sln) located in the project folder.**
